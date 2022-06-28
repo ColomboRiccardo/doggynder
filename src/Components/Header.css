@@ -1,0 +1,14 @@
+.Header {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: white;
+	margin-bottom: 1.5rem;
+	border-radius: 20px;
+	max-height: 10%;
+}
+
+.Header h1 {
+	text-align: center;
+	font-weight: 300;
+}
